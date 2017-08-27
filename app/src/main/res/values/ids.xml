@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="but1" type="id">but1</item>
+    <item name="tv1" type="id">tv1</item>
+    <item name="tvcondition" type="id">tvcondition</item>
+    <item name="tvrank" type="id">tvrank</item>
+    <item name="butexit" type="id">butexit</item>
+    <item name="tv2" type="id">tv2</item>
+    <item name="butStart" type="id">but2</item>
+    <item name="but3" type="id">but3</item>
+    <item name="edittext1" type="id">edittext1</item>
+    <item name="tvname" type="id" />
+    <item name="tvpoint" type="id">tvpoint</item>
+    <item name="tvreadme" type="id">tvreadme</item>
+    <item name="butregard" type="id">butregard</item>
+</resources>

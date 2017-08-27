@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "379146631040",
+    "firebase_url": "https://guessrankgame.firebaseio.com",
+    "project_id": "guessrankgame",
+    "storage_bucket": "guessrankgame.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379146631040:android:72c1508f1d8c63dc",
+        "android_client_info": {
+          "package_name": "com.lfo.guess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379146631040-ogjmop8nklopasoqm62nm9ft9ergsq4g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lfo.guess",
+            "certificate_hash": "02b3dddf2874ad94ce33dc6cc700a618bd9d70ac"
+          }
+        },
+        {
+          "client_id": "379146631040-h9sevq4o7m5kph476un8drdtkj84cqtg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEusqostaVKMbE6iX8Biymhu_BqEvEtx0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379146631040-h9sevq4o7m5kph476un8drdtkj84cqtg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
